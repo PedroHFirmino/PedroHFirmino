@@ -20,7 +20,7 @@ I'm Pedro Firmino, from Brazil, studying **Systems Analysis and Development** an
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 
-# Conect with me 🔗
+# Connect with me 🔗
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ph.firmino/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCKCFTNfFvhKwFmMsxfGkBkQPSSljHWQQwvCZgqvWMCqzKJLgfgpgzslhpPzjSWlXfrKPlzL)
